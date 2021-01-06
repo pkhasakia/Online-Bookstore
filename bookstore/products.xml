@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+
+
+<products>
+  <product class="comics" id = "p1">
+    <name>BATMAN:YEAR ONE</name>
+    <author>Author: Frank Miller</author>
+    <category>Comics</category>
+    <price>Price: $13.00</price>
+  </product>
+
+  <product class="comics" id = "p2">
+     <name>THE INFINITY GAUNTLET</name>
+    <author>Author: Jim Starlin</author>
+    <category>Category: Comics</category>
+    <price>Price: $25.00</price>
+  </product>
+
+ <product class="comics" id = "p3">
+  <name>THE WALKING DEAD ISSUE 1</name>
+    <author>Author: Robert Kirkman</author>
+    <category>Category: Comics</category>
+    <price>Price: $2.95</price>
+  </product>
+
+  <product class="fiction" id = "p4">
+    <name>THE HUNGER GAMES</name>
+    <author>Author: Suzanne Collins</author>
+    <category>Category: Fiction</category>
+    <price>Price: $12.74</price>
+  </product>
+
+  <product class="fiction" id = "p5">
+    <name>THE OUTSIDERS</name>
+    <author>Author: S.E. Hinton</author>
+    <category>Category: Fiction</category>
+    <price>Price: 11.56</price>
+  </product>
+
+  <product class="sports" id = "p6">
+     <name>WE THE CHAMPS: TORONTO RAPTORS</name>
+    <author>Author: Alex Wong</author>
+    <category>Category: Sports</category>
+    <price>Price: $20.00</price>
+  </product>
+
+</products>

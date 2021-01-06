@@ -1,0 +1,38 @@
+products {
+	font-size: 120%;
+	margin: 0.5em;
+	font-family: 'Catamaran', sans-serif;
+	display: block;
+}
+
+product {
+	display: block;
+	border: 1px black;
+	margin: 0.5em;
+	padding-top: 0.5em;
+}
+
+name, author, category, price {
+	display: block;
+}
+
+name {
+	color: red;
+	text-decoration: underline;
+}
+
+price {
+	color: black;
+}
+
+product.comics {
+	background-color: mistyrose;
+}
+
+product.fiction {
+	background-color: #3ff3ff;
+}
+
+product.sports {
+	background-color: #d49fff;
+}
